@@ -24,7 +24,7 @@ feel free to choose 😊
 
 # Beginner 📚
 
-1. `Python Basics`
+1. `Python Basics (ONGOING)` 
     - Arabic : [Osama Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) from 1 -> 80 (recommend 3 or 4 videos per day )
     - English [Free Codecamp](https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
 
@@ -36,7 +36,7 @@ feel free to choose 😊
 ```
 
 
-2. `Python OOP`
+2. `Python OOP (ONGOING)`
     - Arabic : [Osama Elzero](https://www.youtube.com/playlist?list=PLUgz8T_NoattU54gGARPXPmmawQNl-1_T)
     - English : [Bro Code](https://www.youtube.com/watch?v=IbMDCwVm63M)
 
