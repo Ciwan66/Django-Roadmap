@@ -1,26 +1,8 @@
-# Django Roadmap
-this roadmap focus on how the backend works.
-And how could you become a django developer
-with a very solid experince on how the backend works.
-
-
-### The goal of this roadmap is :
-1. Learn backend `fundamentals`
-2. Learn `Django`
-3. Learn the needed requirements as a `Junior Django Dev`
-
+# Django Roadmap (2 of 27)
 
 ### NOTE: This roadmap is for only django devs, and the steps of these roadmap was taken from the main one [here](https://metwallylabs.com/backendroadmap.html)
 
 ## Let's Starting 🔥
-
-
-```
-Before starting, I add the titels to you with the resources i learn it from, 
-the resources is optional for listening from it or choose another resource to learn from it.
-feel free to choose 😊 
-```
-
 
 # Beginner 📚
 
@@ -28,34 +10,10 @@ feel free to choose 😊
     - Arabic : [Osama Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) from 1 -> 80 (recommend 3 or 4 videos per day )
     - English [Free Codecamp](https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
 
-### Tasks
-
-```
-1. calculator : calc this operation [+,-,*,/,//,%] in the user inputs numbers
-2. todo system : simple todo system for create, read and delete the tasks from user.
-```
-
-
 2. `Python OOP (ONGOING)`
     - Arabic : [Osama Elzero](https://www.youtube.com/playlist?list=PLUgz8T_NoattU54gGARPXPmmawQNl-1_T)
     - English : [Bro Code](https://www.youtube.com/watch?v=IbMDCwVm63M)
 
-
-### Tasks
-
-```
-1. Write a Python program to create a person class. 
-Include attributes like name, country and date of birth. 
-Implement a method to determine the person's age and 
-a method to print the user name, and method to print the user country.
-
-
-2. Implement inheritance principle in the task 1
-
-3. Implement Polymorphism in task 2
-
-4. Create an abstract class , and write abstracted methods on it.
-```
 
 
 ### **NOTE: Start in django and on the other side start in DSA**
