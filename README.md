@@ -1,4 +1,4 @@
-# Django Roadmap (2 of 27)
+# Django Roadmap (4 of 27)
 
 ### NOTE: This roadmap is for only django devs, and the steps of these roadmap was taken from the main one [here](https://metwallylabs.com/backendroadmap.html)
 
@@ -6,11 +6,11 @@
 
 # Beginner 📚
 
-1. `Python Basics (ONGOING)` 
+1. `Python Basics (DONE)` 
     - Arabic : [Osama Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) from 1 -> 80 (recommend 3 or 4 videos per day )
     - English [Free Codecamp](https://www.youtube.com/watch?v=eWRfhZUzrAc&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB)
 
-2. `Python OOP (ONGOING)`
+2. `Python OOP (DONE)`
     - Arabic : [Osama Elzero](https://www.youtube.com/playlist?list=PLUgz8T_NoattU54gGARPXPmmawQNl-1_T)
     - English : [Bro Code](https://www.youtube.com/watch?v=IbMDCwVm63M)
 
@@ -18,12 +18,12 @@
 
 ### **NOTE: Start in django and on the other side start in DSA**
 
-3. `Data Structure and Algorithms`
+3. `Data Structure and Algorithms  (ONGOING)`
     - [DSA Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
     - [Grooking Algorithms Book](./books/grokking-algorithms-illustrated-programmers-curious.pdf) 
 
 
-4. `Django`
+4. `Django (DONE)`
     - [What is Django](https://www.youtube.com/watch?v=t_p4ZyAYyaY&pp=ygUOd2hhdCBpcyBkamFuZ28%3D)
     - [Django Architecture](https://www.youtube.com/watch?v=xFkzKxQz9gE)
     - [Starts in Django](https://www.youtube.com/playlist?list=PL2z1gXAKH9c3XUn2HYMWRbAon4z6AQ4CL) 1 -> 36
@@ -32,30 +32,6 @@
 5. `Github` : 
     - [Arabic Github Crash Course](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUOZ2l0aHViIGJpZ2RhdGE%3D) -> Highly Recommended
 
-### Tasks
-```
-Create todo system:
-    1. user can register
-    2. user can login
-    4. user can logout
-    5. each user has own Todos
-    6. user can add todo
-    7. user can delete his todo
-    8. user can update his todo
-    9. user can change the todo state to done
-
-Todo Model : 
-    - user [ForigenKey]
-    - text [TextField]
-    - is_done [BoolField]
-    - created_at [DateTimeField]
-
-Notes :
-    -> not matter how the design looks like, 
-        the important thing is the backend server and the system logic
-
-    -> After you finish this task push it in your github account
-```
 
 
 ---
@@ -86,7 +62,7 @@ Just Listen to these vides before starting on intermediate level.
     - [Python Socket](https://www.youtube.com/watch?v=YwWfKitB8aA&pp=ygURcHl0aG9uIGFuZCBzb2NrZXQ%3D)
     - [Web Server](https://www.youtube.com/watch?v=Hncp0mPfUvk&t=1s&pp=ygUaYnVpbGQgd2ViIHNlcnZlciBpbiBweXRob24%3D)
 
-7. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)
+7. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)`DONE`
 
 8. `Database`
     - [Normalization](https://www.youtube.com/watch?v=1HEHa_EJa0k&pp=ygUXZGIgbm9ybWFsaXphdGlvbiBhcmFiaWM%3D)
