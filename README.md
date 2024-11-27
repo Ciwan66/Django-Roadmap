@@ -14,10 +14,6 @@
     - Arabic : [Osama Elzero](https://www.youtube.com/playlist?list=PLUgz8T_NoattU54gGARPXPmmawQNl-1_T)
     - English : [Bro Code](https://www.youtube.com/watch?v=IbMDCwVm63M)
 
-
-
-### **NOTE: Start in django and on the other side start in DSA**
-
 3. `Data Structure and Algorithms  (ONGOING)`
     - [DSA Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
     - [Grooking Algorithms Book](./books/grokking-algorithms-illustrated-programmers-curious.pdf) 
@@ -39,20 +35,11 @@
 Just Listen to these vides before starting on intermediate level.
 1. [How CPU Works](https://www.youtube.com/watch?v=cNN_tTXABUA&pp=ygUNaG93IGNwdSB3b3Jrcw%3D%3D)
 2. [How Memory Works](https://www.youtube.com/watch?v=p3q5zWCw8J4&pp=ygUQaG93IG1lbW9yeSB3b3Jrcw%3D%3D)
-3. [How Variable Works in python under the hood](https://www.youtube.com/watch?v=0Om2gYU6clE&pp=ygUfaG93IHB5dGhvbiBpbnRlcmFjdCB3aXRoIG1lbW9yeQ%3D%3D)
+3. [How Variable Works in python under the hood](https://www.youtube.com/watch?v=0Om2gYU6clE&pp=ygUfaG93IHB5dGhvbiBpbnRlcmFjdCB3aXRoIG1lbW9yeQ%3D%3D) ` (DONE)`
 4. [How Pyton interact with memory](https://www.youtube.com/watch?v=URNdRl97q_0&pp=ygUfaG93IHB5dGhvbiBpbnRlcmFjdCB3aXRoIG1lbW9yeQ%3D%3D)
 5. [Python Interpreter](https://www.youtube.com/watch?v=BkHdmAhapws&pp=ygUQaG93IHB5dGhvbiB3b3Jrcw%3D%3D)
 6. [Threading Vs Process in python](https://www.youtube.com/watch?v=AZnGRKFUU0c&pp=ygUbdGhyZWFkIHZzIHByb2Nlc3MgaW4gcHl0aG9u)
 7. [Python GIL](https://www.youtube.com/watch?v=XVcRQ6T9RHo&pp=ygUKcHl0aG9uIGdpbA%3D%3D)
-
-
-### Task
-
-```
-    Write a linkedin post on what have u understand on each video from these vides.
-```
-
----
 
 # Intermediate 🙌
 
@@ -62,10 +49,10 @@ Just Listen to these vides before starting on intermediate level.
     - [Python Socket](https://www.youtube.com/watch?v=YwWfKitB8aA&pp=ygURcHl0aG9uIGFuZCBzb2NrZXQ%3D)
     - [Web Server](https://www.youtube.com/watch?v=Hncp0mPfUvk&t=1s&pp=ygUaYnVpbGQgd2ViIHNlcnZlciBpbiBweXRob24%3D)
 
-7. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)`DONE`
+7. [Authentication & Authorization](https://www.youtube.com/watch?v=7ijBiXddB7w)` (DONE)`
 
 8. `Database`
-    - [Normalization](https://www.youtube.com/watch?v=1HEHa_EJa0k&pp=ygUXZGIgbm9ybWFsaXphdGlvbiBhcmFiaWM%3D)
+    - [Normalization](https://www.youtube.com/watch?v=1HEHa_EJa0k&pp=ygUXZGIgbm9ybWFsaXphdGlvbiBhcmFiaWM%3D) ` (DONE)`
     - [SQL Crash course](https://www.youtube.com/watch?v=HXV3zeQKqGY&pp=ygUYZGIgY3Jhc2ggY291cnNlIGdpcmFmZmUg)
     - [Mongodb Crash Couse](https://www.youtube.com/watch?v=ofme2o29ngU&t=1526s&pp=ygUUbW9uZ29kYiBjcmFzaCBjb3Vyc2U%3D)
     - [ORM](https://www.youtube.com/watch?v=KthQ0UmBmxE&pp=ygUOd2hhdCBpcyBkYiBPUk0%3D)
